@@ -1,4 +1,4 @@
-package ch.bibbia.demowine01;
+package ch.bibbia.winedemo01;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
